@@ -1,1 +1,1 @@
-login-app server
+next-app server
